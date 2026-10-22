@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Raúl
 
-🎓 **Software Engineering Graduate** looking for new professional opportunities.
+🎓 **Computer Engineering Graduate** looking for new professional opportunities.
 
 ## 💻 Tech Stack:
 
