@@ -1,5 +1,5 @@
 <h1>
-  👋🏻 Hey! I'm Raúl 
+  👋🏻 Hi! I'm Raúl 
   <a href="https://linkedin.com/in/ra%C3%BAl-larrea-baldov%C3%AD" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" valign="middle"/>
   </a>
