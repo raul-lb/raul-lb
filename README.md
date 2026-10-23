@@ -106,7 +106,8 @@
 ## 🔐 Cybersecurity:
 
 ### Lab Environment
-<table>
+<p align="left">
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://www.linux.org/" target="_blank">
@@ -129,7 +130,9 @@
   </tr>
 </table>
 
-<table>
+&nbsp;&nbsp;&nbsp;
+
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://www.wireshark.org/" target="_blank">
@@ -152,7 +155,9 @@
   </tr>
 </table>
 
-<table>
+&nbsp;&nbsp;&nbsp;
+
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://www.hackthebox.com/" target="_blank">
@@ -174,6 +179,9 @@
     </td>
   </tr>
 </table>
+</p>
+
+<br clear="all"/>
 
 ### Mobile Security
 
@@ -266,7 +274,7 @@
     </td>
     <td align="center">
       <a href="https://frida.re/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/frida.svg" width="48" alt="Frida"/>
+        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Frida"/>
       </a><br/>
       <sub><b>Frida</b></sub>
     </td>
@@ -279,6 +287,7 @@
   </tr>
 </table>
 
+<p>&nbsp;</p>
 
 ## 🔥 My Activity:
 [![GitHub Streak](https://streak-stats.demolab.com?user=raul-lb&theme=dark&border_radius=8)](https://git.io/streak-stats)
