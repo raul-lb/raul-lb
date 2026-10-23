@@ -15,10 +15,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
+      <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cs" width="48"/>
       </a><br/>
-      <sub><b>C++</b></sub>
+      <sub><b>C#</b></sub>
     </td>
     <td align="center">
       <a href="https://www.java.com/" target="_blank">
