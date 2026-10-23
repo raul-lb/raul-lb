@@ -1,26 +1,79 @@
-# 👋 Hey! I'm Raúl
+<h1>
+  👋🏻 Hey! I'm Raúl 
+  <a href="https://linkedin.com/in/ra%C3%BAl-larrea-baldov%C3%AD" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" valign="middle"/>
+  </a>
+</h1>
 
 🎓 **Computer Engineering Graduate** looking for professional opportunities. I bring a background in software development and a growing focus on cybersecurity.
 
 ## 💻 Tech Stack:
 
 #### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Frontend & Mobile
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <sub><b>React Native</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/expo/white" width="48"/><br/>
+      <sub><b>Expo</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Backend & Databases
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%23C5D82C.svg?style=for-the-badge&logo=swagger&logoColor=black)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="48"/><br/>
+      <sub><b>Spring</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>
+      <sub><b>Supabase</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48"/><br/>
+      <sub><b>Swagger</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## 🔐 Cybersecurity:
 
@@ -58,3 +111,6 @@
 ![Drozer](https://img.shields.io/badge/Drozer-8E24AA?style=for-the-badge&logo=android&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-000000?style=for-the-badge&logo=frida&logoColor=white)
 ![Objection](https://img.shields.io/badge/Objection-F57F17?style=for-the-badge&logo=python&logoColor=white)
+
+## 🔥 Mi actividad:
+[![GitHub Streak](https://streak-stats.demolab.com?user=raul-lb&theme=dark&border_radius=8)](https://git.io/streak-stats)
